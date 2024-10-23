@@ -47,5 +47,5 @@
 
 ###
 
-![Snake animation](https://github.com/PedroHMour/PedroHMour/blob/output/snake.svg)
+
 
