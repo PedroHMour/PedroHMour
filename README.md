@@ -8,18 +8,6 @@
 
 ---
 
-## 🟣 Terminal Log
-
-> Initializing profile...  
-> **USER:** Pedro Henrique  
-> **ROLE:** Backend Developer  
-> **FOCUS:** Python, AI, Automation  
-> **STATUS:** Online  
-> **SYSTEM:** Dark Pro / Cyberpunk Mode
-
-
----
-
 ## 👾 About Me
 
 > loading bio...
