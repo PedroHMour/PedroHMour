@@ -1,81 +1,92 @@
-<h1 align="left">👋 Hey, I'm Pedro Henrique</h1>
-
-<p align="left">
-  🚀 Back-End Developer in progress<br>
-  💡 Passionate about Python, AI and creating real solutions<br>
-  🛠 Creating bugs since 2020... but fixing them since 2021 😄<br>
-  🎯 Goal: Become a solid developer specialized in AI & automation
-</p>
-
----
-
-## 🎖️ **Badges & Tech Status**
-
-<div align="left">
-
-![Profile Views](https://komarev.com/ghpvc/?username=PedroHMour&color=blueviolet&style=flat-square)
-![Python Badge](https://img.shields.io/badge/Python-Expert-informational?style=flat&logo=python&logoColor=white&color=3776AB)
-![Learning](https://img.shields.io/badge/Learning-AI%20%26%20Backend-blue?style=flat-square)
-![Country](https://img.shields.io/badge/Brazil-🇧🇷-green?style=flat-square)
-
-</div>
-
----
-
-## 🧠 **Tech Stack**
-### **Languages & Tools I Work With**
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="45"/>
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="45" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45"/>
-</div>
-
----
-
-## 📊 **GitHub Analytics**
+<!-- =========================================
+     PEDRO HENRIQUE — Hacker Terminal / Cyberpunk README
+========================================= -->
 
 <div align="center">
-  <img 
-       height="165"
-       src="https://github-readme-stats.vercel.app/api?username=PedroHMour&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
-  />
-
-  <img
-       height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroHMour&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:7b00ff&height=180&section=header&text=Pedro%20Henrique&fontSize=45&fontColor=E6E6E6&animation=twinkling"/>
 </div>
 
 ---
 
-## 🐍 **Contribution Snake**
+## 🟣 Terminal Log
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PedroHMour/PedroHMour/output/snake.svg" alt="Snake animation" />
-</p>
+> Initializing profile...  
+> USER: Pedro Henrique  
+> ROLE: Backend Developer  
+> FOCUS: Python, AI, Automation  
+> STATUS: Online  
 
 ---
 
-## 📬 **Contact Me**
+## 👾 About Me
+
+> loading bio...
+
+- 🧠 Aprendendo Python com foco em Back-End  
+- 🤖 Apaixonado por IA, automação e sistemas inteligentes  
+- 🐍 Criando bugs desde 2020… corrigindo desde 2021  
+- 🎯 Objetivo: tornar-se um dev de IA altamente capacitado  
+
+---
+
+## ⚡ Cyberpunk Badges
 
 <div align="left">
 
-[![Gmail](https://img.shields.io/badge/Gmail-Contact%20me-red?style=flat-square&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/PedroHMour)
+<img src="https://img.shields.io/badge/Python-7b00ff?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Backend-Developer-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Focused-111111?style=for-the-badge&logo=ai"/>
+<img src="https://img.shields.io/badge/Brazil-🇧🇷-green?style=for-the-badge"/>
 
+</div>
+
+---
+
+## 🧬 Tech Stack (core_modules)
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,cs,js,react,nodejs,git,linux&theme=dark" height="60"/>
+</div>
+
+---
+
+## 📊 GitHub System Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroHMour&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroHMour&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PedroHMour/PedroHMour/output/snake.svg"/>
+</div>
+
+---
+
+## 📡 Contact
+
+<div align="left">
+
+<a href="mailto:seuemail@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/PedroHMour">
+  <img src="https://img.shields.io/badge/GitHub-Follow-000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b00ff,100:000000&height=140&section=footer"/>
 </div>
