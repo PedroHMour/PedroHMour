@@ -36,32 +36,32 @@ Currently seeking international opportunities to leverage my experience in robus
 ### Infrastructure & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
 ## 🚀 Production Experience & Featured Work
 
-*(Note: The projects below highlight my experience in tackling real business logic, third-party integrations, and system scalability.)*
+*(Note: Due to confidentiality, some repositories may be private. The projects below highlight my experience in tackling core business logic, financial tracking, and system scalability.)*
 
-### 📦 [NAME OF REAL PROJECT OR PRODUCT 1 - e.g., CRM System / External API Integration](LINK_TO_REPO_OR_LIVE_DEMO)
-* **The Challenge:** [Escreva 1 frase em inglês explicando um problema complexo que você resolveu como Pleno. Ex: Architected a multi-tenant backend system that required strict data isolation and high-throughput webhooks processing.]
-* **The Execution:** [Escreva 1-2 frases focando na sua ação e entrega. Ex: Implemented a robust architecture using Node.js and PostgreSQL, containerized with Docker for predictable deployments across environments.]
-* **Tech Stack:** Node.js, TypeScript, PostgreSQL, Docker
+### 🚚 Logistics TMS & ERP (Transportation Management System)
+* **The Challenge:** Architecting a comprehensive, enterprise-level Logistics TMS in Brazil that required deep integration across multiple business domains, functioning practically as a full ERP.
+* **The Execution:** Developed end-to-end modules covering commercial workflows, operational routing, extra costs calculation, and financial management. Designed the database schemas and business logic to handle complex, real-world logistics operations and data integrity.
+* **Tech Stack:** NestJS, Next.js, PostgreSQL, Redis, Docker, DigitalOcean VPS
 
-### 🏢 [NAME OF REAL PROJECT OR PRODUCT 2 - e.g., High-Concurrency Web App](LINK_TO_REPO_OR_LIVE_DEMO)
-* **The Challenge:** [Ex: The legacy monolithic architecture was unable to scale efficiently under heavy user load during peak usage times.]
-* **The Execution:** [Ex: Migrated critical bottlenecks to microservices using C# .NET, utilizing Redis caching to reduce database query latency by over X%.]
-* **Tech Stack:** C# .NET, Redis, Next.js
+### 🏢 WMS (Warehouse Management System) for Elgin
+* **The Challenge:** Designing a robust inventory and warehouse management solution to optimize supply chain operations for Elgin, a major Brazilian corporation.
+* **The Execution:** Built a scalable backend architecture capable of handling high-throughput inventory tracking, reducing operational bottlenecks, and ensuring precise data synchronization across warehouse operations.
+* **Tech Stack:** .NET, Next.js, PostgreSQL, Docker
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME_HERE&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroHMour&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroHMour&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC" width="48%" alt="GitHub Streak" />
 </div>
 
 ---
@@ -69,10 +69,10 @@ Currently seeking international opportunities to leverage my experience in robus
 ## 📫 Let's Connect
 
 <div align="left">
-  <a href="YOUR_LINKEDIN_URL_HERE" target="_blank">
+  <a href="https://www.linkedin.com/in/pedro-h-aab8a514b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:YOUR_EMAIL_HERE@email.com">
+  <a href="mailto:henriquesilvamoura81@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
