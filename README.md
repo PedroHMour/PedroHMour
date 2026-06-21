@@ -1,82 +1,42 @@
-<!-- =========================================
-     PEDRO HENRIQUE — Hacker Terminal / Cyberpunk README
-========================================= -->
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:7b00ff&height=180&section=header&text=Pedro%20Henrique&fontSize=45&fontColor=E6E6E6&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=160&section=header&text=Pedro%20Henrique&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Node.js%20%7C%20TypeScript%20%7C%20Distributed%20Systems&descAlignY=58&descSize=16&descColor=a0a0b0"/>
 </div>
+
+<br/>
+
+## About
+
+Backend engineer focused on distributed systems, resilient architectures, and cloud-native infrastructure. I build systems designed to fail gracefully — with retry strategies, dead letter queues, and horizontal scalability from day one.
+
+Currently deepening expertise in high-throughput job processing, event-driven architecture, and TypeScript across the full stack.
 
 ---
 
-## 👾 About Me
+## Tech Stack
 
-> loading bio...
+**Backend**
 
-- 🧠 Aprendendo Python com foco em Back-End  
-- 🤖 Apaixonado por IA, automação e sistemas inteligentes  
-- 🐍 Criando bugs desde 2020… corrigindo desde 2021  
-- 🎯 Objetivo: tornar-se um dev de IA altamente capacitado  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
----
+**Frontend**
 
-## ⚡ Cyberpunk Badges
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-<div align="left">
+**Data & Infrastructure**
 
-<img src="https://img.shields.io/badge/Python-7b00ff?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Backend-Developer-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Focused-111111?style=for-the-badge&logo=ai"/>
-<img src="https://img.shields.io/badge/Brazil-🇧🇷-green?style=for-the-badge"/>
-
-</div>
-
----
-
-## 🧬 Tech Stack (core_modules)
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,cs,js,react,nodejs,git,linux&theme=dark" height="60"/>
-</div>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-FF6B6B?style=flat-square)
 
 ---
 
-## 📊 GitHub System Metrics
+## Featured Project
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroHMour&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroHMour&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</div>
+### [Distributed Job Queue Engine](https://github.com/PedroHMour/distributed-job-queue)
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/PedroHMour/PedroHMour/output/snake.svg"/>
-</div>
-
----
-
-## 📡 Contact
-
-<div align="left">
-
-<a href="mailto:seuemail@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/PedroHMour">
-  <img src="https://img.shields.io/badge/GitHub-Follow-000?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b00ff,100:000000&height=140&section=footer"/>
-</div>
+A production-grade distributed job queue built from scratch — not a tutorial, not a boilerplate.
